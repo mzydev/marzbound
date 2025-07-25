@@ -1,4 +1,4 @@
-![R (2)](https://github.com/mzydev/marzbound/blob/main/assets/topic.png)
+![R (21)](https://github.com/mzydev/marzbound/blob/main/assets/topic.png)
 **MARZBOUND**
 
 

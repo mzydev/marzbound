@@ -1,7 +1,7 @@
 
-
-## Marzbound
 <img src="https://github.com/mzydev/marzbound/blob/main/assets/topic.png" width="40px" height="40px" alt="Image">
+## Marzbound
+
 Make Marzban&Marzneshin So Easy
 A powerful and user-friendly web-based tool designed to generate Xray inbound configuration files in JSON format. Built with Vue.js and Tailwind CSS, this tool simplifies the process of creating configurations for various proxy protocols, making it accessible for both beginners and advanced users. Whether you're setting up a proxy server or experimenting with network configurations, DDS Xray Inbound Generator has you covered. Developed by MZYDEV⚠️.
 

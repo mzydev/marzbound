@@ -1,4 +1,5 @@
-![R (21)](https://github.com/mzydev/marzbound/blob/main/assets/topic.png)
+
+<img src="https://github.com/mzydev/marzbound/blob/main/assets/topic.png" width="100px" height="100px" alt="Image">
 **MARZBOUND**
 
 

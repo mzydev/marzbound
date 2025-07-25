@@ -1,5 +1,4 @@
 
-<img src="https://github.com/mzydev/marzbound/blob/main/assets/topic.png" width="40px" height="40px" alt="Image">
 ## Marzbound
 
 Make Marzban&Marzneshin So Easy

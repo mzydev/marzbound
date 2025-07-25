@@ -1,5 +1,5 @@
 
-<img src="https://github.com/mzydev/marzbound/blob/main/assets/topic.png" width="100px" height="100px" alt="Image">
+<img src="https://github.com/mzydev/marzbound/blob/main/assets/topic.png" width="30px" height="30px" alt="Image">
 **MARZBOUND**
 
 
